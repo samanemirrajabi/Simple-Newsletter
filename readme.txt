@@ -24,6 +24,7 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You can put you newsletter form any place with this shortcode: [SMNewsLetter] or use nlsm_newsletter_form() function.
 
+
 == Screenshots ==
 
 1. Settings page
